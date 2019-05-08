@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecomtest/static/css/main.36497136.chunk.css",
+    "main.js": "/ecomtest/static/js/main.61df3be1.chunk.js",
+    "main.js.map": "/ecomtest/static/js/main.61df3be1.chunk.js.map",
+    "runtime~main.js": "/ecomtest/static/js/runtime~main.83a29af1.js",
+    "runtime~main.js.map": "/ecomtest/static/js/runtime~main.83a29af1.js.map",
+    "static/js/2.3310f33a.chunk.js": "/ecomtest/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/ecomtest/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/ecomtest/index.html",
+    "precache-manifest.f4332d373f825e9efb1ca31d4e75b502.js": "/ecomtest/precache-manifest.f4332d373f825e9efb1ca31d4e75b502.js",
+    "service-worker.js": "/ecomtest/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/ecomtest/static/css/main.36497136.chunk.css.map"
+  }
+}
